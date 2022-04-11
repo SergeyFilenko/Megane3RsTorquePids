@@ -1,5 +1,5 @@
-# Megane3RsTorguePids
-Torgue pids for megane 3 rs 250 (ph2)
+# Megane3RsTorquePids
+Torque pids for megane 3 rs 250 (ph2)
 
 * 10708 - Система впрыска (INJ_EMS3110_X95_F4RT_M4R_RD9_44B)
 * 10721 - АБС (ABS_ESP_X95_0000_04_A)
